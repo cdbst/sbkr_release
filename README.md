@@ -1,2 +1,5 @@
 # sbkr_release
-repo to relese sbkr binary
+REPO to SNKRS BOT KR
+
+# 문의 사항
+Discord : Cdbst#2766
